@@ -1,0 +1,20 @@
+.shop-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    position: sticky;
+}
+.meal-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 50px;
+    margin: 100px 50px;
+}
+.order-details-container {
+    padding: 20px;
+    /* background-color: rgba(247, 76, 167, 0.8); */
+    /* background-color: #23180D; */
+    /* background-color: #C52D2F; */
+    background-color: #238522;
+    color: #FFF;
+}

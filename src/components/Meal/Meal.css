@@ -1,0 +1,35 @@
+.card img {
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+
+}
+.card {
+    width: 300px;
+    height: 510px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+.card-info {
+    margin: 0 14px;
+}
+.card-info p {
+    margin-bottom: 0;
+    margin-top: 8px;
+}
+.card-name {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    
+    color: #0E161A;
+    margin-top: 7px;
+}
+.card-category {
+    font-size: 19px;
+    font-weight: 600;
+}
